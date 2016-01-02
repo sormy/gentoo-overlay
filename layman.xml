@@ -1,0 +1,15 @@
+<repositories xmlns="" version="1.0">  
+  <repo quality="experimental" status="unofficial">
+    <name>sormy</name>
+    <description lang="en">Sormy's personal repo</description>
+    <homepage>https://github.com/sormy/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>art.sormy@gmail.com</email>
+      <name>Artem Butusov</name>
+    </owner>
+    <source type="git">https://github.com/sormy/gentoo-overlay.git</source>
+    <source type="git">git://github.com/sormy/gentoo-overlay.git</source>
+    <source type="git">git@github.com:sormy/gentoo-overlay.git</source>
+    <feed>https://github.com/sormy/gentoo-overlay/commits/master.atom</feed>
+  </repo>
+</repositories>
